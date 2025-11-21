@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A 4:1 multiplexer takes four input signals and 2-bit select signals, and sends only one of those inputs to a single output.  Therefore, it acts like some sort of digital switch that basically chooses which input gets sent to the output.
 
 ## How to test
 
-Explain how to use your project
+Activate the various signals and it chooses which one to send.
 
 ## External hardware
 
